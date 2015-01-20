@@ -1,0 +1,1 @@
+1. [isTouchEventSupported使用示例](http://jsfiddle.net/benfchen/zbq3joL8/)

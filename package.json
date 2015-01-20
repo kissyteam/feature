@@ -1,5 +1,6 @@
 {
     "name": "modulex-feature",
+    "description": "硬件环境关键特性检测，用于判断环境是否支持某个特性",
     "version": "1.0.3",
     "author": "yiminghe <yiminghe@gmail.com>",
     "engines": {
