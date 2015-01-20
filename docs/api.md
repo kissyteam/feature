@@ -10,7 +10,7 @@
 		}
 	});
 	
-[demo]()
+[demo](http://jsfiddle.net/benfchen/schb65wt/)
 
 ### isMsPointerSupported()
 
@@ -23,7 +23,6 @@
 ### isHashChangeSupported()
 
 判断当前环境是否支持hashChange事件
-
 
 ### isTransformSupported()
 
