@@ -1,8 +1,4 @@
-/*
-Copyright 2014, modulex-feature@1.0.3
-MIT Licensed
-build time: Thu, 16 Oct 2014 04:01:31 GMT
-*/
+//! Copyright 2015, kissy-feature@1.0.3 MIT Licensed, build time: Thu, 05 Feb 2015 06:32:25 GMT 
 /*
 combined modules:
 feature
