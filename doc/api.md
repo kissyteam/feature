@@ -10,7 +10,7 @@
 		}
 	});
 	
-[demo](http://jsfiddle.net/benfchen/schb65wt/)
+[demo](http://runjs.cn/code/w97sku0s)
 
 ### isMsPointerSupported()
 
